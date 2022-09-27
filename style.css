@@ -79,6 +79,7 @@ nav {
    padding-top:100px;
    padding-left:200px;
    text-align: right;
+   display:flex;
 }
 
 
